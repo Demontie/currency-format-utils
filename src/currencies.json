@@ -1,0 +1,1481 @@
+[
+  {
+    "code": "AFN",
+    "number": "971",
+    "digits": 2,
+    "currency": "Afghani",
+    "countries": ["Afghanistan"],
+    "locale": [{ "AF": "fa-AF" }],
+    "code_country": ["AF"]
+  },
+  {
+    "code": "ALL",
+    "number": "008",
+    "digits": 2,
+    "currency": "Lek",
+    "countries": ["Albania"],
+    "locale": [{ "AL": "sq-AL" }],
+    "code_country": ["AL"]
+  },
+  {
+    "code": "DZD",
+    "number": "012",
+    "digits": 2,
+    "currency": "Algerian Dinar",
+    "countries": ["Algeria"],
+    "locale": [{ "DZ": "ar-DZ" }],
+    "code_country": ["DZ"]
+  },
+  {
+    "code": "EUR",
+    "number": "978",
+    "digits": 2,
+    "currency": "Euro",
+    "countries": [
+      "Åland Islands",
+      "Andorra",
+      "Austria",
+      "Belgium",
+      "Cyprus",
+      "Estonia",
+      "European Union",
+      "Finland",
+      "France",
+      "French Guiana",
+      "French Southern Territories (The)",
+      "Germany",
+      "Greece",
+      "Guadeloupe",
+      "Holy See (The)",
+      "Ireland",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Malta",
+      "Martinique",
+      "Mayotte",
+      "Monaco",
+      "Montenegro",
+      "Netherlands (The)",
+      "Portugal",
+      "Réunion",
+      "Saint Barthélemy",
+      "Saint Martin (French Part)",
+      "Saint Pierre and Miquelon",
+      "San Marino",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Netherlands",
+      "Vatican City"
+    ],
+    "locale": [
+      { "AD": "ca-AD" },
+      { "AT": "de-AT" },
+      { "BE": "fr-BE" },
+      { "CY": "el-CY" },
+      { "EE": "et-EE" },
+      { "FI": "fi-FI" },
+      { "FR": "fr-FR" },
+      { "DE": "de-DE" },
+      { "GR": "el-GR" },
+      { "IE": "ga-IE" },
+      { "IT": "it-IT" },
+      { "LV": "lv-LV" },
+      { "LT": "lt-LT" },
+      { "LU": "fr-LU" },
+      { "MT": "mt-MT" },
+      { "MC": "fr-MC" },
+      { "ME": "sr-ME" },
+      { "NL": "nl-NL" },
+      { "PT": "pt-PT" },
+      { "SM": "it-SM" },
+      { "SK": "sk-SK" },
+      { "SI": "sl-SI" },
+      { "ES": "es-ES" },
+      { "VA": "it-VA" }
+    ],
+    "code_country": [
+      "AD",
+      "AT",
+      "BE",
+      "CY",
+      "EE",
+      "FI",
+      "FR",
+      "DE",
+      "GR",
+      "IE",
+      "IT",
+      "LV",
+      "LT",
+      "LU",
+      "MT",
+      "MC",
+      "ME",
+      "NL",
+      "PT",
+      "SM",
+      "SK",
+      "SI",
+      "ES",
+      "VA"
+    ]
+  },
+  {
+    "code": "AOA",
+    "number": "973",
+    "digits": 2,
+    "currency": "Kwanza",
+    "countries": ["Angola"],
+    "locale": [{ "AO": "pt-AO" }],
+    "code_country": ["AO"]
+  },
+  {
+    "code": "ARS",
+    "number": "032",
+    "digits": 2,
+    "currency": "Argentine Peso",
+    "countries": ["Argentina"],
+    "locale": [{ "AR": "es-AR" }],
+    "code_country": ["AR"]
+  },
+  {
+    "code": "AMD",
+    "number": "051",
+    "digits": 2,
+    "currency": "Armenian Dram",
+    "countries": ["Armenia"],
+    "locale": [{ "AM": "hy-AM" }],
+    "code_country": ["AM"]
+  },
+  {
+    "code": "AUD",
+    "number": "036",
+    "digits": 2,
+    "currency": "Australian Dollar",
+    "countries": [
+      "Australia",
+      "Christmas Island",
+      "Cocos (Keeling) Islands (The)",
+      "Heard Island and Mcdonald Islands",
+      "Kiribati",
+      "Nauru",
+      "Norfolk Island",
+      "Tuvalu",
+      "Solomon Islands"
+    ],
+    "locale": [
+      { "AU": "en-AU" },
+      { "KI": "en-KI" },
+      { "NR": "en-NR" },
+      { "SB": "en-SB" },
+      { "TV": "en-TV" }
+    ],
+    "code_country": ["AU", "KI", "NR", "SB", "TV"]
+  },
+  {
+    "code": "AZN",
+    "number": "944",
+    "digits": 2,
+    "currency": "Azerbaijan Manat",
+    "countries": ["Azerbaijan"],
+    "locale": [{ "AZ": "az-AZ" }],
+    "code_country": ["AZ"]
+  },
+  {
+    "code": "BSD",
+    "number": "044",
+    "digits": 2,
+    "currency": "Bahamian Dollar",
+    "countries": ["Bahamas (The)", "Bahamas"],
+    "locale": [{ "BS": "en-BS" }],
+    "code_country": ["BS"]
+  },
+  {
+    "code": "BHD",
+    "number": "048",
+    "digits": 3,
+    "currency": "Bahraini Dinar",
+    "countries": ["Bahrain"],
+    "locale": [{ "BH": "ar-BH" }],
+    "code_country": ["BH"]
+  },
+  {
+    "code": "BDT",
+    "number": "050",
+    "digits": 2,
+    "currency": "Taka",
+    "countries": ["Bangladesh"],
+    "locale": [{ "BD": "bn-BD" }],
+    "code_country": ["BD"]
+  },
+  {
+    "code": "BBD",
+    "number": "052",
+    "digits": 2,
+    "currency": "Barbados Dollar",
+    "countries": ["Barbados"],
+    "locale": [{ "BB": "en-BB" }],
+    "code_country": ["BB"]
+  },
+  {
+    "code": "BYN",
+    "number": "933",
+    "digits": 2,
+    "currency": "Belarusian Ruble",
+    "countries": ["Belarus"],
+    "locale": [{ "BY": "be-BY" }],
+    "code_country": ["BY"]
+  },
+  {
+    "code": "BZD",
+    "number": "084",
+    "digits": 2,
+    "currency": "Belize Dollar",
+    "countries": ["Belize"],
+    "locale": [{ "BZ": "en-BZ" }],
+    "code_country": ["BZ"]
+  },
+  {
+    "code": "XOF",
+    "number": "952",
+    "digits": 0,
+    "currency": "CFA Franc BCEAO",
+    "countries": [
+      "Benin",
+      "Burkina Faso",
+      "Côte d'Ivoire",
+      "Guinea-Bissau",
+      "Mali",
+      "Niger (The)",
+      "Senegal",
+      "Togo",
+      "Niger"
+    ],
+    "locale": [
+      { "BJ": "fr-BJ" },
+      { "BF": "fr-BF" },
+      { "GW": "pt-GW" },
+      { "ML": "fr-ML" },
+      { "NE": "fr-NE" },
+      { "SN": "fr-SN" },
+      { "TG": "fr-TG" }
+    ],
+    "code_country": ["BJ", "BF", "GW", "ML", "NE", "SN", "TG"]
+  },
+  {
+    "code": "BTN",
+    "number": "064",
+    "digits": 2,
+    "currency": "Ngultrum",
+    "countries": ["Bhutan"],
+    "locale": [{ "BT": "dz-BT" }],
+    "code_country": ["BT"]
+  },
+  {
+    "code": "BOB",
+    "number": "068",
+    "digits": 2,
+    "currency": "Boliviano",
+    "countries": ["Bolivia (Plurinational State Of)", "Bolivia"],
+    "locale": [{ "BO": "es-BO" }],
+    "code_country": ["BO"]
+  },
+  {
+    "code": "BAM",
+    "number": "977",
+    "digits": 2,
+    "currency": "Convertible Mark",
+    "countries": ["Bosnia and Herzegovina"],
+    "locale": [{ "BA": "bs-BA" }],
+    "code_country": ["BA"]
+  },
+  {
+    "code": "BRL",
+    "number": "986",
+    "digits": 2,
+    "currency": "Brazilian Real",
+    "countries": ["Brazil"],
+    "locale": [{ "BR": "pt-BR" }],
+    "code_country": ["BR"]
+  },
+  {
+    "code": "BND",
+    "number": "096",
+    "digits": 2,
+    "currency": "Brunei Dollar",
+    "countries": ["Brunei Darussalam", "Brunei"],
+    "locale": [{ "BN": "ms-BN" }],
+    "code_country": ["BN"]
+  },
+  {
+    "code": "BGN",
+    "number": "975",
+    "digits": 2,
+    "currency": "Bulgarian Lev",
+    "countries": ["Bulgaria"],
+    "locale": [{ "BG": "bg-BG" }],
+    "code_country": ["BG"]
+  },
+  {
+    "code": "BIF",
+    "number": "108",
+    "digits": 0,
+    "currency": "Burundi Franc",
+    "countries": ["Burundi"],
+    "locale": [{ "BI": "fr-BI" }],
+    "code_country": ["BI"]
+  },
+  {
+    "code": "CVE",
+    "number": "132",
+    "digits": 2,
+    "currency": "Cabo Verde Escudo",
+    "countries": ["Cabo Verde"],
+    "locale": [{ "CV": "pt-CV" }],
+    "code_country": ["CV"]
+  },
+  {
+    "code": "KHR",
+    "number": "116",
+    "digits": 2,
+    "currency": "Riel",
+    "countries": ["Cambodia"],
+    "locale": [{ "KH": "km-KH" }],
+    "code_country": ["KH"]
+  },
+  {
+    "code": "XAF",
+    "number": "950",
+    "digits": 0,
+    "currency": "CFA Franc BEAC",
+    "countries": [
+      "Cameroon",
+      "Central African Republic (The)",
+      "Chad",
+      "Congo (The)",
+      "Equatorial Guinea",
+      "Gabon",
+      "Central African Republic",
+      "Congo, Republic of the"
+    ],
+    "locale": [
+      { "CM": "fr-CM" },
+      { "CF": "fr-CF" },
+      { "TD": "fr-TD" },
+      { "CG": "fr-CG" },
+      { "GQ": "es-GQ" },
+      { "GA": "fr-GA" }
+    ],
+    "code_country": ["CM", "CF", "TD", "CG", "GQ", "GA"]
+  },
+  {
+    "code": "CAD",
+    "number": "124",
+    "digits": 2,
+    "currency": "Canadian Dollar",
+    "countries": ["Canada"],
+    "locale": [{ "CA": "en-CA" }],
+    "code_country": ["CA"]
+  },
+  {
+    "code": "CLP",
+    "number": "152",
+    "digits": 0,
+    "currency": "Chilean Peso",
+    "countries": ["Chile"],
+    "locale": [{ "CL": "es-CL" }],
+    "code_country": ["CL"]
+  },
+  {
+    "code": "CNY",
+    "number": "156",
+    "digits": 2,
+    "currency": "Yuan Renminbi",
+    "countries": ["China"],
+    "locale": [{ "CN": "zh-CN" }],
+    "code_country": ["CN"]
+  },
+  {
+    "code": "COP",
+    "number": "170",
+    "digits": 2,
+    "currency": "Colombian Peso",
+    "countries": ["Colombia"],
+    "locale": [{ "CO": "es-CO" }],
+    "code_country": ["CO"]
+  },
+  {
+    "code": "KMF",
+    "number": "174",
+    "digits": 0,
+    "currency": "Comorian Franc ",
+    "countries": ["Comoros (The)", "Comoros"],
+    "locale": [{ "KM": "ar-KM" }],
+    "code_country": ["KM"]
+  },
+  {
+    "code": "CDF",
+    "number": "976",
+    "digits": 2,
+    "currency": "Congolese Franc",
+    "countries": [
+      "Congo (The Democratic Republic of The)",
+      "Congo, Democratic Republic of the"
+    ],
+    "locale": [{ "CD": "fr-CD" }],
+    "code_country": ["CD"]
+  },
+  {
+    "code": "CRC",
+    "number": "188",
+    "digits": 2,
+    "currency": "Costa Rican Colon",
+    "countries": ["Costa Rica"],
+    "locale": [{ "CR": "es-CR" }],
+    "code_country": ["CR"]
+  },
+  {
+    "code": "HRK",
+    "number": "191",
+    "digits": 2,
+    "currency": "Kuna",
+    "countries": ["Croatia"],
+    "locale": [{ "HR": "hr-HR" }],
+    "code_country": ["HR"]
+  },
+  {
+    "code": "CUP",
+    "number": "192",
+    "digits": 2,
+    "currency": "Cuban Peso",
+    "countries": ["Cuba"],
+    "locale": [{ "CU": "es-CU" }],
+    "code_country": ["CU"]
+  },
+  {
+    "code": "CZK",
+    "number": "203",
+    "digits": 2,
+    "currency": "Czech Koruna",
+    "countries": ["Czechia", "Czech Republic"],
+    "locale": [{ "CZ": "cs-CZ" }],
+    "code_country": ["CZ"]
+  },
+  {
+    "code": "DKK",
+    "number": "208",
+    "digits": 2,
+    "currency": "Danish Krone",
+    "countries": ["Denmark", "Faroe Islands (The)", "Greenland"],
+    "locale": [{ "DK": "da-DK" }],
+    "code_country": ["DK"]
+  },
+  {
+    "code": "DJF",
+    "number": "262",
+    "digits": 0,
+    "currency": "Djibouti Franc",
+    "countries": ["Djibouti"],
+    "locale": [{ "DJ": "fr-DJ" }],
+    "code_country": ["DJ"]
+  },
+  {
+    "code": "XCD",
+    "number": "951",
+    "digits": 2,
+    "currency": "East Caribbean Dollar",
+    "countries": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Dominica",
+      "Grenada",
+      "Montserrat",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines"
+    ],
+    "locale": [
+      { "DM": "en-DM" },
+      { "GD": "en-GD" },
+      { "KN": "en-KN" },
+      { "LC": "en-LC" },
+      { "VC": "en-VC" }
+    ],
+    "code_country": ["DM", "GD", "KN", "LC", "VC"]
+  },
+  {
+    "code": "DOP",
+    "number": "214",
+    "digits": 2,
+    "currency": "Dominican Peso",
+    "countries": ["Dominican Republic (The)", "Dominican Republic"],
+    "locale": [{ "DO": "es-DO" }],
+    "code_country": ["DO"]
+  },
+  {
+    "code": "USD",
+    "number": "840",
+    "digits": 2,
+    "currency": "US Dollar",
+    "countries": [
+      "American Samoa",
+      "Bonaire, Sint Eustatius and Saba",
+      "British Indian Ocean Territory (The)",
+      "Ecuador",
+      "El Salvador",
+      "Guam",
+      "Haiti",
+      "Marshall Islands (The)",
+      "Micronesia (Federated States Of)",
+      "Northern Mariana Islands (The)",
+      "Palau",
+      "Panama",
+      "Puerto Rico",
+      "Timor-Leste",
+      "Turks and Caicos Islands (The)",
+      "United States Minor Outlying Islands (The)",
+      "United States of America (The)",
+      "Virgin Islands (British)",
+      "Virgin Islands (U.S.)",
+      "Marshall Islands",
+      "Micronesia",
+      "United States"
+    ],
+    "locale": [
+      { "EC": "es-EC" },
+      { "SV": "es-SV" },
+      { "MH": "en-MH" },
+      { "FM": "en-FM" },
+      { "PW": "en-PW" },
+      { "US": "en-US" }
+    ],
+    "code_country": ["EC", "SV", "MH", "FM", "PW", "US"]
+  },
+  {
+    "code": "EGP",
+    "number": "818",
+    "digits": 2,
+    "currency": "Egyptian Pound",
+    "countries": ["Egypt"],
+    "locale": [{ "EG": "ar-EG" }],
+    "code_country": ["EG"]
+  },
+  {
+    "code": "ERN",
+    "number": "232",
+    "digits": 2,
+    "currency": "Nakfa",
+    "countries": ["Eritrea"],
+    "locale": [{ "ER": "ti-ER" }],
+    "code_country": ["ER"]
+  },
+  {
+    "code": "SZL",
+    "number": "748",
+    "digits": 2,
+    "currency": "Lilangeni",
+    "countries": ["Eswatini"],
+    "locale": [{ "SZ": "en-SZ" }],
+    "code_country": ["SZ"]
+  },
+  {
+    "code": "ETB",
+    "number": "230",
+    "digits": 2,
+    "currency": "Ethiopian Birr",
+    "countries": ["Ethiopia"],
+    "locale": [{ "ET": "am-ET" }],
+    "code_country": ["ET"]
+  },
+  {
+    "code": "FJD",
+    "number": "242",
+    "digits": 2,
+    "currency": "Fiji Dollar",
+    "countries": ["Fiji"],
+    "locale": [{ "FJ": "en-FJ" }],
+    "code_country": ["FJ"]
+  },
+  {
+    "code": "GMD",
+    "number": "270",
+    "digits": 2,
+    "currency": "Dalasi",
+    "countries": ["Gambia (The)", "Gambia"],
+    "locale": [{ "GM": "en-GM" }],
+    "code_country": ["GM"]
+  },
+  {
+    "code": "GEL",
+    "number": "981",
+    "digits": 2,
+    "currency": "Lari",
+    "countries": ["Georgia"],
+    "locale": [{ "GE": "ka-GE" }],
+    "code_country": ["GE"]
+  },
+  {
+    "code": "GHS",
+    "number": "936",
+    "digits": 2,
+    "currency": "Ghana Cedi",
+    "countries": ["Ghana"],
+    "locale": [{ "GH": "en-GH" }],
+    "code_country": ["GH"]
+  },
+  {
+    "code": "GTQ",
+    "number": "320",
+    "digits": 2,
+    "currency": "Quetzal",
+    "countries": ["Guatemala"],
+    "locale": [{ "GT": "es-GT" }],
+    "code_country": ["GT"]
+  },
+  {
+    "code": "GNF",
+    "number": "324",
+    "digits": 0,
+    "currency": "Guinean Franc",
+    "countries": ["Guinea"],
+    "locale": [{ "GN": "fr-GN" }],
+    "code_country": ["GN"]
+  },
+  {
+    "code": "GYD",
+    "number": "328",
+    "digits": 2,
+    "currency": "Guyana Dollar",
+    "countries": ["Guyana"],
+    "locale": [{ "GY": "en-GY" }],
+    "code_country": ["GY"]
+  },
+  {
+    "code": "HTG",
+    "number": "332",
+    "digits": 2,
+    "currency": "Gourde",
+    "countries": ["Haiti"],
+    "locale": [{ "HT": "ht-HT" }],
+    "code_country": ["HT"]
+  },
+  {
+    "code": "HNL",
+    "number": "340",
+    "digits": 2,
+    "currency": "Lempira",
+    "countries": ["Honduras"],
+    "locale": [{ "HN": "es-HN" }],
+    "code_country": ["HN"]
+  },
+  {
+    "code": "HUF",
+    "number": "348",
+    "digits": 2,
+    "currency": "Forint",
+    "countries": ["Hungary"],
+    "locale": [{ "HU": "hu-HU" }],
+    "code_country": ["HU"]
+  },
+  {
+    "code": "ISK",
+    "number": "352",
+    "digits": 0,
+    "currency": "Iceland Krona",
+    "countries": ["Iceland"],
+    "locale": [{ "IS": "is-IS" }],
+    "code_country": ["IS"]
+  },
+  {
+    "code": "INR",
+    "number": "356",
+    "digits": 2,
+    "currency": "Indian Rupee",
+    "countries": ["Bhutan", "India"],
+    "locale": [{ "IN": "hi-IN" }],
+    "code_country": ["IN"]
+  },
+  {
+    "code": "IDR",
+    "number": "360",
+    "digits": 2,
+    "currency": "Rupiah",
+    "countries": ["Indonesia"],
+    "locale": [{ "ID": "id-ID" }],
+    "code_country": ["ID"]
+  },
+  {
+    "code": "IRR",
+    "number": "364",
+    "digits": 2,
+    "currency": "Iranian Rial",
+    "countries": ["Iran (Islamic Republic Of)", "Iran"],
+    "locale": [{ "IR": "fa-IR" }],
+    "code_country": ["IR"]
+  },
+  {
+    "code": "IQD",
+    "number": "368",
+    "digits": 3,
+    "currency": "Iraqi Dinar",
+    "countries": ["Iraq"],
+    "locale": [{ "IQ": "ar-IQ" }],
+    "code_country": ["IQ"]
+  },
+  {
+    "code": "ILS",
+    "number": "376",
+    "digits": 2,
+    "currency": "New Israeli Sheqel",
+    "countries": ["Israel"],
+    "locale": [{ "IL": "he-IL" }],
+    "code_country": ["IL"]
+  },
+  {
+    "code": "JMD",
+    "number": "388",
+    "digits": 2,
+    "currency": "Jamaican Dollar",
+    "countries": ["Jamaica"],
+    "locale": [{ "JM": "en-JM" }],
+    "code_country": ["JM"]
+  },
+  {
+    "code": "JPY",
+    "number": "392",
+    "digits": 0,
+    "currency": "Yen",
+    "countries": ["Japan"],
+    "locale": [{ "JP": "ja-JP" }],
+    "code_country": ["JP"]
+  },
+  {
+    "code": "JOD",
+    "number": "400",
+    "digits": 3,
+    "currency": "Jordanian Dinar",
+    "countries": ["Jordan"],
+    "locale": [{ "JO": "ar-JO" }],
+    "code_country": ["JO"]
+  },
+  {
+    "code": "KZT",
+    "number": "398",
+    "digits": 2,
+    "currency": "Tenge",
+    "countries": ["Kazakhstan"],
+    "locale": [{ "KZ": "kk-KZ" }],
+    "code_country": ["KZ"]
+  },
+  {
+    "code": "KES",
+    "number": "404",
+    "digits": 2,
+    "currency": "Kenyan Shilling",
+    "countries": ["Kenya"],
+    "locale": [{ "KE": "sw-KE" }],
+    "code_country": ["KE"]
+  },
+  {
+    "code": "KWD",
+    "number": "414",
+    "digits": 3,
+    "currency": "Kuwaiti Dinar",
+    "countries": ["Kuwait"],
+    "locale": [{ "KW": "ar-KW" }],
+    "code_country": ["KW"]
+  },
+  {
+    "code": "KGS",
+    "number": "417",
+    "digits": 2,
+    "currency": "Som",
+    "countries": ["Kyrgyzstan"],
+    "locale": [{ "KG": "ky-KG" }],
+    "code_country": ["KG"]
+  },
+  {
+    "code": "LAK",
+    "number": "418",
+    "digits": 2,
+    "currency": "Lao Kip",
+    "countries": ["Lao People’s Democratic Republic (The)", "Laos"],
+    "locale": [{ "LA": "lo-LA" }],
+    "code_country": ["LA"]
+  },
+  {
+    "code": "LBP",
+    "number": "422",
+    "digits": 2,
+    "currency": "Lebanese Pound",
+    "countries": ["Lebanon"],
+    "locale": [{ "LB": "ar-LB" }],
+    "code_country": ["LB"]
+  },
+  {
+    "code": "LSL",
+    "number": "426",
+    "digits": 2,
+    "currency": "Loti",
+    "countries": ["Lesotho"],
+    "locale": [{ "LS": "en-LS" }],
+    "code_country": ["LS"]
+  },
+  {
+    "code": "LRD",
+    "number": "430",
+    "digits": 2,
+    "currency": "Liberian Dollar",
+    "countries": ["Liberia"],
+    "locale": [{ "LR": "en-LR" }],
+    "code_country": ["LR"]
+  },
+  {
+    "code": "LYD",
+    "number": "434",
+    "digits": 3,
+    "currency": "Libyan Dinar",
+    "countries": ["Libya"],
+    "locale": [{ "LY": "ar-LY" }],
+    "code_country": ["LY"]
+  },
+  {
+    "code": "CHF",
+    "number": "756",
+    "digits": 2,
+    "currency": "Swiss Franc",
+    "countries": ["Liechtenstein", "Switzerland"],
+    "locale": [{ "LI": "de-LI" }, { "CH": "de-CH" }],
+    "code_country": ["LI", "CH"]
+  },
+  {
+    "code": "MGA",
+    "number": "969",
+    "digits": 2,
+    "currency": "Malagasy Ariary",
+    "countries": ["Madagascar"],
+    "locale": [{ "MG": "fr-MG" }],
+    "code_country": ["MG"]
+  },
+  {
+    "code": "MWK",
+    "number": "454",
+    "digits": 2,
+    "currency": "Malawi Kwacha",
+    "countries": ["Malawi"],
+    "locale": [{ "MW": "en-MW" }],
+    "code_country": ["MW"]
+  },
+  {
+    "code": "MYR",
+    "number": "458",
+    "digits": 2,
+    "currency": "Malaysian Ringgit",
+    "countries": ["Malaysia"],
+    "locale": [{ "MY": "ms-MY" }],
+    "code_country": ["MY"]
+  },
+  {
+    "code": "MVR",
+    "number": "462",
+    "digits": 2,
+    "currency": "Rufiyaa",
+    "countries": ["Maldives"],
+    "locale": [{ "MV": "dv-MV" }],
+    "code_country": ["MV"]
+  },
+  {
+    "code": "MRU",
+    "number": "929",
+    "digits": 2,
+    "currency": "Ouguiya",
+    "countries": ["Mauritania"],
+    "locale": [{ "MR": "ar-MR" }],
+    "code_country": ["MR"]
+  },
+  {
+    "code": "MUR",
+    "number": "480",
+    "digits": 2,
+    "currency": "Mauritius Rupee",
+    "countries": ["Mauritius"],
+    "locale": [{ "MU": "en-MU" }],
+    "code_country": ["MU"]
+  },
+  {
+    "code": "MXN",
+    "number": "484",
+    "digits": 2,
+    "currency": "Mexican Peso",
+    "countries": ["Mexico"],
+    "locale": [{ "MX": "es-MX" }],
+    "code_country": ["MX"]
+  },
+  {
+    "code": "MDL",
+    "number": "498",
+    "digits": 2,
+    "currency": "Moldovan Leu",
+    "countries": ["Moldova (The Republic Of)", "Moldova"],
+    "locale": [{ "MD": "ro-MD" }],
+    "code_country": ["MD"]
+  },
+  {
+    "code": "MNT",
+    "number": "496",
+    "digits": 2,
+    "currency": "Tugrik",
+    "countries": ["Mongolia"],
+    "locale": [{ "MN": "mn-MN" }],
+    "code_country": ["MN"]
+  },
+  {
+    "code": "MAD",
+    "number": "504",
+    "digits": 2,
+    "currency": "Moroccan Dirham",
+    "countries": ["Morocco", "Western Sahara"],
+    "locale": [{ "MA": "ar-MA" }],
+    "code_country": ["MA"]
+  },
+  {
+    "code": "MZN",
+    "number": "943",
+    "digits": 2,
+    "currency": "Mozambique Metical",
+    "countries": ["Mozambique"],
+    "locale": [{ "MZ": "pt-MZ" }],
+    "code_country": ["MZ"]
+  },
+  {
+    "code": "MMK",
+    "number": "104",
+    "digits": 2,
+    "currency": "Kyat",
+    "countries": ["Myanmar"],
+    "locale": [{ "MM": "my-MM" }],
+    "code_country": ["MM"]
+  },
+  {
+    "code": "NAD",
+    "number": "516",
+    "digits": 2,
+    "currency": "Namibia Dollar",
+    "countries": ["Namibia"],
+    "locale": [{ "NA": "en-NA" }],
+    "code_country": ["NA"]
+  },
+  {
+    "code": "NPR",
+    "number": "524",
+    "digits": 2,
+    "currency": "Nepalese Rupee",
+    "countries": ["Nepal"],
+    "locale": [{ "NP": "ne-NP" }],
+    "code_country": ["NP"]
+  },
+  {
+    "code": "NZD",
+    "number": "554",
+    "digits": 2,
+    "currency": "New Zealand Dollar",
+    "countries": [
+      "Cook Islands (The)",
+      "New Zealand",
+      "Niue",
+      "Pitcairn",
+      "Tokelau"
+    ],
+    "locale": [{ "NZ": "en-NZ" }],
+    "code_country": ["NZ"]
+  },
+  {
+    "code": "NIO",
+    "number": "558",
+    "digits": 2,
+    "currency": "Cordoba Oro",
+    "countries": ["Nicaragua"],
+    "locale": [{ "NI": "es-NI" }],
+    "code_country": ["NI"]
+  },
+  {
+    "code": "NGN",
+    "number": "566",
+    "digits": 2,
+    "currency": "Naira",
+    "countries": ["Nigeria"],
+    "locale": [{ "NG": "en-NG" }],
+    "code_country": ["NG"]
+  },
+  {
+    "code": "MKD",
+    "number": "807",
+    "digits": 2,
+    "currency": "Denar",
+    "countries": [
+      "Macedonia (The Former Yugoslav Republic Of)",
+      "North Macedonia"
+    ],
+    "locale": [{ "MK": "mk-MK" }],
+    "code_country": ["MK"]
+  },
+  {
+    "code": "NOK",
+    "number": "578",
+    "digits": 2,
+    "currency": "Norwegian Krone",
+    "countries": ["Bouvet Island", "Norway", "Svalbard and Jan Mayen"],
+    "locale": [{ "NO": "no-NO" }],
+    "code_country": ["NO"]
+  },
+  {
+    "code": "OMR",
+    "number": "512",
+    "digits": 3,
+    "currency": "Rial Omani",
+    "countries": ["Oman"],
+    "locale": [{ "OM": "ar-OM" }],
+    "code_country": ["OM"]
+  },
+  {
+    "code": "PKR",
+    "number": "586",
+    "digits": 2,
+    "currency": "Pakistan Rupee",
+    "countries": ["Pakistan"],
+    "locale": [{ "PK": "ur-PK" }],
+    "code_country": ["PK"]
+  },
+  {
+    "code": "PAB",
+    "number": "590",
+    "digits": 2,
+    "currency": "Balboa",
+    "countries": ["Panama"],
+    "locale": [{ "PA": "es-PA" }],
+    "code_country": ["PA"]
+  },
+  {
+    "code": "PGK",
+    "number": "598",
+    "digits": 2,
+    "currency": "Kina",
+    "countries": ["Papua New Guinea"],
+    "locale": [{ "PG": "en-PG" }],
+    "code_country": ["PG"]
+  },
+  {
+    "code": "PYG",
+    "number": "600",
+    "digits": 0,
+    "currency": "Guarani",
+    "countries": ["Paraguay"],
+    "locale": [{ "PY": "es-PY" }],
+    "code_country": ["PY"]
+  },
+  {
+    "code": "PEN",
+    "number": "604",
+    "digits": 2,
+    "currency": "Sol",
+    "countries": ["Peru"],
+    "locale": [{ "PE": "es-PE" }],
+    "code_country": ["PE"]
+  },
+  {
+    "code": "PHP",
+    "number": "608",
+    "digits": 2,
+    "currency": "Philippine Peso",
+    "countries": ["Philippines (The)", "Philippines"],
+    "locale": [{ "PH": "en-PH" }],
+    "code_country": ["PH"]
+  },
+  {
+    "code": "PLN",
+    "number": "985",
+    "digits": 2,
+    "currency": "Zloty",
+    "countries": ["Poland"],
+    "locale": [{ "PL": "pl-PL" }],
+    "code_country": ["PL"]
+  },
+  {
+    "code": "QAR",
+    "number": "634",
+    "digits": 2,
+    "currency": "Qatari Rial",
+    "countries": ["Qatar"],
+    "locale": [{ "QA": "ar-QA" }],
+    "code_country": ["QA"]
+  },
+  {
+    "code": "RON",
+    "number": "946",
+    "digits": 2,
+    "currency": "Romanian Leu",
+    "countries": ["Romania"],
+    "locale": [{ "RO": "ro-RO" }],
+    "code_country": ["RO"]
+  },
+  {
+    "code": "RUB",
+    "number": "643",
+    "digits": 2,
+    "currency": "Russian Ruble",
+    "countries": ["Russian Federation (The)", "Russia"],
+    "locale": [{ "RU": "ru-RU" }],
+    "code_country": ["RU"]
+  },
+  {
+    "code": "RWF",
+    "number": "646",
+    "digits": 0,
+    "currency": "Rwanda Franc",
+    "countries": ["Rwanda"],
+    "locale": [{ "RW": "rw-RW" }],
+    "code_country": ["RW"]
+  },
+  {
+    "code": "WST",
+    "number": "882",
+    "digits": 2,
+    "currency": "Tala",
+    "countries": ["Samoa"],
+    "locale": [{ "WS": "en-WS" }],
+    "code_country": ["WS"]
+  },
+  {
+    "code": "STN",
+    "number": "930",
+    "digits": 2,
+    "currency": "Dobra",
+    "countries": ["Sao Tome and Principe"],
+    "locale": [{ "ST": "pt-ST" }],
+    "code_country": ["ST"]
+  },
+  {
+    "code": "SAR",
+    "number": "682",
+    "digits": 2,
+    "currency": "Saudi Riyal",
+    "countries": ["Saudi Arabia"],
+    "locale": [{ "SA": "ar-SA" }],
+    "code_country": ["SA"]
+  },
+  {
+    "code": "RSD",
+    "number": "941",
+    "digits": 2,
+    "currency": "Serbian Dinar",
+    "countries": ["Serbia"],
+    "locale": [{ "RS": "sr-RS" }],
+    "code_country": ["RS"]
+  },
+  {
+    "code": "SCR",
+    "number": "690",
+    "digits": 2,
+    "currency": "Seychelles Rupee",
+    "countries": ["Seychelles"],
+    "locale": [{ "SC": "en-SC" }],
+    "code_country": ["SC"]
+  },
+  {
+    "code": "SLL",
+    "number": "694",
+    "digits": 2,
+    "currency": "Leone",
+    "countries": ["Sierra Leone"],
+    "locale": [{ "SL": "en-SL" }],
+    "code_country": ["SL"]
+  },
+  {
+    "code": "SGD",
+    "number": "702",
+    "digits": 2,
+    "currency": "Singapore Dollar",
+    "countries": ["Singapore"],
+    "locale": [{ "SG": "en-SG" }],
+    "code_country": ["SG"]
+  },
+  {
+    "code": "SOS",
+    "number": "706",
+    "digits": 2,
+    "currency": "Somali Shilling",
+    "countries": ["Somalia"],
+    "locale": [{ "SO": "so-SO" }],
+    "code_country": ["SO"]
+  },
+  {
+    "code": "ZAR",
+    "number": "710",
+    "digits": 2,
+    "currency": "Rand",
+    "countries": ["Lesotho", "Namibia", "South Africa"],
+    "locale": [{ "ZA": "en-ZA" }],
+    "code_country": ["ZA"]
+  },
+  {
+    "code": "KRW",
+    "number": "410",
+    "digits": 0,
+    "currency": "Won",
+    "countries": ["Korea (The Republic Of)", "South Korea"],
+    "locale": [{ "KR": "ko-KR" }],
+    "code_country": ["KR"]
+  },
+  {
+    "code": "SSP",
+    "number": "728",
+    "digits": 2,
+    "currency": "South Sudanese Pound",
+    "countries": ["South Sudan"],
+    "locale": [{ "SS": "en-SS" }],
+    "code_country": ["SS"]
+  },
+  {
+    "code": "LKR",
+    "number": "144",
+    "digits": 2,
+    "currency": "Sri Lanka Rupee",
+    "countries": ["Sri Lanka"],
+    "locale": [{ "LK": "si-LK" }],
+    "code_country": ["LK"]
+  },
+  {
+    "code": "SDG",
+    "number": "938",
+    "digits": 2,
+    "currency": "Sudanese Pound",
+    "countries": ["Sudan (The)", "Sudan"],
+    "locale": [{ "SD": "ar-SD" }],
+    "code_country": ["SD"]
+  },
+  {
+    "code": "SRD",
+    "number": "968",
+    "digits": 2,
+    "currency": "Surinam Dollar",
+    "countries": ["Suriname"],
+    "locale": [{ "SR": "nl-SR" }],
+    "code_country": ["SR"]
+  },
+  {
+    "code": "SEK",
+    "number": "752",
+    "digits": 2,
+    "currency": "Swedish Krona",
+    "countries": ["Sweden"],
+    "locale": [{ "SE": "sv-SE" }],
+    "code_country": ["SE"]
+  },
+  {
+    "code": "SYP",
+    "number": "760",
+    "digits": 2,
+    "currency": "Syrian Pound",
+    "countries": ["Syrian Arab Republic", "Syria"],
+    "locale": [{ "SY": "ar-SY" }],
+    "code_country": ["SY"]
+  },
+  {
+    "code": "TWD",
+    "number": "901",
+    "digits": 2,
+    "currency": "New Taiwan Dollar",
+    "countries": ["Taiwan (Province of China)", "Taiwan"],
+    "locale": [{ "TW": "zh-TW" }],
+    "code_country": ["TW"]
+  },
+  {
+    "code": "TJS",
+    "number": "972",
+    "digits": 2,
+    "currency": "Somoni",
+    "countries": ["Tajikistan"],
+    "locale": [{ "TJ": "tg-TJ" }],
+    "code_country": ["TJ"]
+  },
+  {
+    "code": "TZS",
+    "number": "834",
+    "digits": 2,
+    "currency": "Tanzanian Shilling",
+    "countries": ["Tanzania, United Republic Of", "Tanzania"],
+    "locale": [{ "TZ": "sw-TZ" }],
+    "code_country": ["TZ"]
+  },
+  {
+    "code": "THB",
+    "number": "764",
+    "digits": 2,
+    "currency": "Baht",
+    "countries": ["Thailand"],
+    "locale": [{ "TH": "th-TH" }],
+    "code_country": ["TH"]
+  },
+  {
+    "code": "TOP",
+    "number": "776",
+    "digits": 2,
+    "currency": "Pa’anga",
+    "countries": ["Tonga"],
+    "locale": [{ "TO": "en-TO" }],
+    "code_country": ["TO"]
+  },
+  {
+    "code": "TTD",
+    "number": "780",
+    "digits": 2,
+    "currency": "Trinidad and Tobago Dollar",
+    "countries": ["Trinidad and Tobago"],
+    "locale": [{ "TT": "en-TT" }],
+    "code_country": ["TT"]
+  },
+  {
+    "code": "TND",
+    "number": "788",
+    "digits": 3,
+    "currency": "Tunisian Dinar",
+    "countries": ["Tunisia"],
+    "locale": [{ "TN": "ar-TN" }],
+    "code_country": ["TN"]
+  },
+  {
+    "code": "TRY",
+    "number": "949",
+    "digits": 2,
+    "currency": "Turkish Lira",
+    "countries": ["Turkey"],
+    "locale": [{ "TR": "tr-TR" }],
+    "code_country": ["TR"]
+  },
+  {
+    "code": "TMT",
+    "number": "934",
+    "digits": 2,
+    "currency": "Turkmenistan New Manat",
+    "countries": ["Turkmenistan"],
+    "locale": [{ "TM": "tk-TM" }],
+    "code_country": ["TM"]
+  },
+  {
+    "code": "UGX",
+    "number": "800",
+    "digits": 0,
+    "currency": "Uganda Shilling",
+    "countries": ["Uganda"],
+    "locale": [{ "UG": "en-UG" }],
+    "code_country": ["UG"]
+  },
+  {
+    "code": "UAH",
+    "number": "980",
+    "digits": 2,
+    "currency": "Hryvnia",
+    "countries": ["Ukraine"],
+    "locale": [{ "UA": "uk-UA" }],
+    "code_country": ["UA"]
+  },
+  {
+    "code": "AED",
+    "number": "784",
+    "digits": 2,
+    "currency": "UAE Dirham",
+    "countries": ["United Arab Emirates (The)", "United Arab Emirates"],
+    "locale": [{ "AE": "ar-AE" }],
+    "code_country": ["AE"]
+  },
+  {
+    "code": "GBP",
+    "number": "826",
+    "digits": 2,
+    "currency": "Pound Sterling",
+    "countries": [
+      "Guernsey",
+      "Isle of Man",
+      "Jersey",
+      "United Kingdom of Great Britain and Northern Ireland (The)",
+      "United Kingdom"
+    ],
+    "locale": [{ "GB": "en-GB" }],
+    "code_country": ["GB"]
+  },
+  {
+    "code": "UYU",
+    "number": "858",
+    "digits": 2,
+    "currency": "Peso Uruguayo",
+    "countries": ["Uruguay"],
+    "locale": [{ "UY": "es-UY" }],
+    "code_country": ["UY"]
+  },
+  {
+    "code": "UZS",
+    "number": "860",
+    "digits": 2,
+    "currency": "Uzbekistan Sum",
+    "countries": ["Uzbekistan"],
+    "locale": [{ "UZ": "uz-UZ" }],
+    "code_country": ["UZ"]
+  },
+  {
+    "code": "VUV",
+    "number": "548",
+    "digits": 0,
+    "currency": "Vatu",
+    "countries": ["Vanuatu"],
+    "locale": [{ "VU": "en-VU" }],
+    "code_country": ["VU"]
+  },
+  {
+    "code": "VES",
+    "number": "928",
+    "digits": 2,
+    "currency": "Bolívar Soberano",
+    "countries": ["Venezuela (Bolivarian Republic Of)", "Venezuela"],
+    "locale": [{ "VE": "es-VE" }],
+    "code_country": ["VE"]
+  },
+  {
+    "code": "VND",
+    "number": "704",
+    "digits": 0,
+    "currency": "Dong",
+    "countries": ["Viet Nam", "Vietnam"],
+    "locale": [{ "VN": "vi-VN" }],
+    "code_country": ["VN"]
+  },
+  {
+    "code": "YER",
+    "number": "886",
+    "digits": 2,
+    "currency": "Yemeni Rial",
+    "countries": ["Yemen"],
+    "locale": [{ "YE": "ar-YE" }],
+    "code_country": ["YE"]
+  },
+  {
+    "code": "ZMW",
+    "number": "967",
+    "digits": 2,
+    "currency": "Zambian Kwacha",
+    "countries": ["Zambia"],
+    "locale": [{ "ZM": "en-ZM" }],
+    "code_country": ["ZM"]
+  },
+  {
+    "code": "ZWL",
+    "number": "932",
+    "digits": 2,
+    "currency": "Zimbabwe Dollar",
+    "countries": ["Zimbabwe"],
+    "locale": [{ "ZW": "en-ZW" }],
+    "code_country": ["ZW"]
+  }
+]

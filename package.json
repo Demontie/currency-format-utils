@@ -1,0 +1,21 @@
+{
+  "name": "currency-format-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig-build.json",
+    "start": "node dist/index.js",
+    "start:dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify src/index.ts"
+  },
+  "author": "Demontie Costa",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.0",
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.5.4"
+  }
+}
