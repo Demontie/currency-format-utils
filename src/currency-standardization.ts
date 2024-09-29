@@ -2,7 +2,7 @@ import currencies from "./currencies.json";
 import { CurrencyFormatInstance } from "./currency-format-instance";
 
 type Params = {
-  currency: string;
+  number: string;
   value: number | string;
   code_country?: any;
   isCents?: boolean;
@@ -53,7 +53,7 @@ export class CurrencyStandardization {
     value,
     isCents = false,
     code_country = null,
-  }: Omit<Params, "currency"> & { code: string }): CurrencyFormatInstance {
+  }: Omit<Params, "number"> & { code: string }): CurrencyFormatInstance {
     const currencyData = currencies.find((obj) => code === obj.code);
 
     if (!currencyData) {
@@ -73,15 +73,15 @@ export class CurrencyStandardization {
   }
 
   static currencyNumber({
-    currency,
+    number,
     value,
     isCents = false,
     code_country = null,
   }: Params) {
-    const currencyData = currencies.find((obj) => currency === obj.number);
+    const currencyData = currencies.find((obj) => number === obj.number);
 
     if (!currencyData) {
-      throw new Error(`Currency number '${currency}' not found.`);
+      throw new Error(`Currency number '${number}' not found.`);
     }
 
     const { digits, code } = currencyData;
