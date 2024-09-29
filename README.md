@@ -25,7 +25,7 @@ console.log(teste.getValueFormated()); //R$ 100,00
 const { CurrencyStandardization } = require("currency-format-utils");
 
 const teste = CurrencyStandardization.currencyNumber({
-  currency: "032",
+  number: "032",
   value: 100.0,
 });
 
@@ -39,13 +39,49 @@ console.log(teste.getValueFormated()); //$ 100,00
 ```js
 const { CurrencyStandardization } = require("currency-format-utils");
 const teste = CurrencyStandardization.currencyCode({
-  currency: "JOD",
+  code: "JOD",
   value: 300,
 });
 
 console.log(teste.getCentsValue()); //300000
 console.log(teste.getValue()); //300
 console.log(teste.getValueFormated()); //٣٠٠٫٠٠٠ د.أ
+```
+
+## getDataByNumber({ number: "032" });
+
+```js
+const { CurrencyStandardization } = require("currency-format-utils");
+const teste = CurrencyStandardization.getDataByNumber({ number: "032" });
+/*
+{
+    "code": "ARS",
+    "number": "032",
+    "digits": 2,
+    "currency": "Argentine Peso",
+    "countries": ["Argentina"],
+    "locale": [{ "AR": "es-AR" }],
+    "code_country": ["AR"]
+}
+*/
+```
+
+## getDataByCode({ code: "032" });
+
+```js
+const { CurrencyStandardization } = require("currency-format-utils");
+const teste = CurrencyStandardization.getDataByNumber({ code: "BRL" });
+/*
+{
+    "code": "BRL",
+    "number": "986",
+    "digits": 2,
+    "currency": "Brazilian Real",
+    "countries": ["Brazil"],
+    "locale": [{ "BR": "pt-BR" }],
+    "code_country": ["BR"]
+}
+*/
 ```
 
 ## ISO-4217
