@@ -49,18 +49,18 @@ export class CurrencyStandardization {
   }
 
   static currencyCode({
-    currency,
+    code,
     value,
     isCents = false,
     code_country = null,
-  }: Params): CurrencyFormatInstance {
-    const currencyData = currencies.find((obj) => currency === obj.code);
+  }: Omit<Params, "currency"> & { code: string }): CurrencyFormatInstance {
+    const currencyData = currencies.find((obj) => code === obj.code);
 
     if (!currencyData) {
-      throw new Error(`Currency code '${currency}' not found.`);
+      throw new Error(`Currency code '${code}' not found.`);
     }
 
-    const { digits, code } = currencyData;
+    const { digits } = currencyData;
 
     const locale = this.getLocale({
       codeParam: code,
@@ -114,10 +114,30 @@ export class CurrencyStandardization {
     const { code } = currencyData;
 
     return this.currencyCode({
-      currency: code,
+      code,
       value,
       isCents,
       code_country: country.toLocaleUpperCase(),
     });
+  }
+
+  static getDataByNumber({ number }: { number: string }) {
+    const currencyData = currencies.find((obj) => number === obj.number);
+
+    if (!currencyData) {
+      throw new Error(`Currency number '${number}' not found.`);
+    }
+
+    return currencyData;
+  }
+
+  static getDataByCode({ code }: { code: string }) {
+    const currencyData = currencies.find((obj) => code === obj.number);
+
+    if (!currencyData) {
+      throw new Error(`Currency code '${code}' not found.`);
+    }
+
+    return currencyData;
   }
 }
