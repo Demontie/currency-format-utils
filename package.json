@@ -10,7 +10,7 @@
     "start:dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify src/index.ts"
   },
   "author": "Demontie Costa",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^22.5.0",
     "nodemon": "^3.1.4",
