@@ -8,11 +8,18 @@
     "type": "git",
     "url": "https://github.com/Demontie/currency-format-utils.git"
   },
+  "bugs": {
+    "url": "https://github.com/Demontie/currency-format-utils/issues"
+  },
   "scripts": {
     "build": "tsc -p tsconfig-build.json",
     "start": "node dist/index.js",
     "start:dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify src/index.ts"
   },
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "keywords": [
     "currency",
     "format",

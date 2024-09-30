@@ -34,6 +34,22 @@ console.log(teste.getValue()); //100
 console.log(teste.getValueFormated()); //$ 100,00
 ```
 
+## currencyNumber({ currency: "032", value: 100.0, code_country: "AR" });
+
+```js
+const { CurrencyStandardization } = require("currency-format-utils");
+
+const teste = CurrencyStandardization.currencyNumber({
+  number: "032",
+  value: 100.0,
+  code_country: "AR",
+});
+
+console.log(teste.getCentsValue()); //10000
+console.log(teste.getValue()); //100
+console.log(teste.getValueFormated()); //$ 100,00
+```
+
 ## currencyCode({ currency: "JOD", value: 300, });
 
 ```js
@@ -41,6 +57,21 @@ const { CurrencyStandardization } = require("currency-format-utils");
 const teste = CurrencyStandardization.currencyCode({
   code: "JOD",
   value: 300,
+});
+
+console.log(teste.getCentsValue()); //300000
+console.log(teste.getValue()); //300
+console.log(teste.getValueFormated()); //٣٠٠٫٠٠٠ د.أ
+```
+
+## currencyCode({ currency: "JOD", value: 300, isCents: true });
+
+```js
+const { CurrencyStandardization } = require("currency-format-utils");
+const teste = CurrencyStandardization.currencyCode({
+  code: "JOD",
+  value: 300000,
+  isCents: true,
 });
 
 console.log(teste.getCentsValue()); //300000
